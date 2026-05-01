@@ -2,7 +2,7 @@
   {
     "corsRuleName": "movies28",
     "allowedOrigins": [
-      "http://localhost:5173"
+      "https://cinemaframe.vercel.app"
     ],
     "allowedHeaders": [
       "*"
