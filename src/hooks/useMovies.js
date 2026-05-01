@@ -29,8 +29,8 @@ export const DEFAULT_MOVIE = {
   director:    "Ron Clements, John Musker",
   language:    "Español",
   duration:    "97 min",
-  poster_url:  "./public/Frog-and-princess.jpg",
-  video_url:   "./public/videoplayback.mp4",
+  poster_url:  "./Frog-and-princess.jpg",
+  video_url:   "./videoplayback.mp4",
   isDefault:   true,
 };
 
