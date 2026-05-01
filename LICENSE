@@ -1,0 +1,228 @@
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                           CINEMAFRAME                                        ║
+║                    Editor de Fotogramas de Video                             ║
+║                                                                              ║
+║                       LICENCIA PROPIETARIA                                   ║
+║                    PROPRIETARY SOFTWARE LICENSE                              ║
+║                                                                              ║
+║   Copyright © 2025 Octavio Sebastian Tabbia & Giovanna Ratti                ║
+║                    All rights reserved.                                      ║
+║                    Todos los derechos reservados.                            ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TITULARES DE LOS DERECHOS / COPYRIGHT HOLDERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Octavio Sebastian Tabbia
+  Giovanna Ratti
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OBRA PROTEGIDA / PROTECTED WORK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Nombre del software  : CinemaFrame — Editor de Fotogramas de Video
+  Versión              : 2.0.0
+  Año de creación      : 2025
+  Naturaleza           : Aplicación web (software)
+  Tecnologías          : React, JavaScript, Canvas API, Supabase, CSS
+
+  Esta licencia se aplica a todos los archivos del proyecto, incluyendo pero
+  no limitándose a: código fuente (.jsx, .js, .css), archivos de configuración,
+  documentación, estructura de directorios, diseño visual e interfaz de usuario.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARTÍCULO 1 — TITULARIDAD
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  1.1  CinemaFrame es una obra intelectual original protegida por las leyes
+       de propiedad intelectual y derechos de autor vigentes en la República
+       Argentina (Ley 11.723 de Propiedad Intelectual y sus modificaciones),
+       así como por los tratados internacionales aplicables, incluyendo el
+       Convenio de Berna para la Protección de las Obras Literarias y
+       Artísticas y el Acuerdo sobre los ADPIC/TRIPS.
+
+  1.2  La titularidad exclusiva y conjunta de todos los derechos sobre este
+       software corresponde a Octavio Sebastian Tabbia y Giovanna Ratti
+       (en adelante, "los Titulares").
+
+  1.3  Ninguna disposición de esta licencia transfiere, cede ni licencia
+       derecho alguno sobre la propiedad intelectual de los Titulares,
+       salvo lo expresamente indicado en el Artículo 3.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARTÍCULO 2 — USOS PROHIBIDOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Queda expresamente PROHIBIDO, sin la autorización escrita y previa de
+  los Titulares, realizar cualquiera de los siguientes actos:
+
+  2.1  REPRODUCCIÓN
+       Copiar, duplicar, almacenar o reproducir este software o cualquier
+       parte del mismo, en cualquier medio o formato, ya sea digital,
+       impreso, magnético, óptico o de cualquier otra naturaleza.
+
+  2.2  DISTRIBUCIÓN
+       Distribuir, publicar, difundir, transmitir o poner a disposición
+       de terceros este software, total o parcialmente, de forma gratuita
+       o a título oneroso, por cualquier medio o canal.
+
+  2.3  MODIFICACIÓN Y OBRAS DERIVADAS
+       Modificar, adaptar, traducir, transformar, refactorizar o crear
+       obras derivadas basadas en la totalidad o en partes de este software.
+
+  2.4  USO COMERCIAL
+       Utilizar este software, o cualquier parte del mismo, con fines
+       comerciales, lucrativos o para la prestación de servicios a terceros,
+       sin importar si dicho uso es directo o indirecto.
+
+  2.5  SUBLICENCIAMIENTO Y TRANSFERENCIA
+       Sublicenciar, vender, alquilar, arrendar, prestar, ceder o transferir
+       de cualquier forma los derechos sobre este software a terceros.
+
+  2.6  INGENIERÍA INVERSA
+       Descompilar, desensamblar, realizar ingeniería inversa o intentar
+       obtener el código fuente a partir de versiones compiladas o
+       minificadas del software.
+
+  2.7  ELIMINACIÓN DE AVISOS
+       Eliminar, ocultar, modificar o alterar los avisos de copyright,
+       marcas de agua, atribuciones de autoría u otros identificadores
+       de titularidad presentes en el software o su documentación.
+
+  2.8  ATRIBUCIÓN FALSA
+       Presentar este software, o cualquier parte del mismo, como propio
+       o atribuir su autoría a personas distintas de los Titulares.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARTÍCULO 3 — USOS PERMITIDOS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Se permite, sin necesidad de autorización adicional:
+
+  3.1  Utilizar el software para los fines para los que fue desarrollado
+       y puesto a disposición por los Titulares.
+
+  3.2  Consultar el código fuente con fines de referencia, estudio o
+       aprendizaje personal, sin reproducirlo ni distribuirlo.
+
+  3.3  Reportar errores, fallas o vulnerabilidades de seguridad directamente
+       a los Titulares para contribuir a la mejora del software.
+
+  3.4  Hacer capturas de pantalla o grabaciones del software en funcionamiento
+       con fines de documentación personal o demostración no comercial,
+       siempre que se incluya la atribución correspondiente a los Titulares.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARTÍCULO 4 — AUSENCIA DE GARANTÍAS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  4.1  Este software se proporciona "TAL CUAL" (AS IS), sin garantías de
+       ningún tipo, expresas, implícitas, legales o de cualquier otra
+       naturaleza, incluyendo pero no limitándose a las garantías implícitas
+       de comerciabilidad, aptitud para un propósito particular y no
+       infracción de derechos de terceros.
+
+  4.2  Los Titulares no garantizan que el software esté libre de errores,
+       que funcione de manera ininterrumpida, ni que sea compatible con
+       todos los sistemas, navegadores o dispositivos.
+
+  4.3  El uso del software es bajo la exclusiva responsabilidad del usuario.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARTÍCULO 5 — LIMITACIÓN DE RESPONSABILIDAD
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  5.1  En ningún caso los Titulares serán responsables por daños directos,
+       indirectos, incidentales, especiales, ejemplares o consecuentes
+       (incluyendo pero no limitándose a la pérdida de datos, pérdida de
+       beneficios, interrupción del negocio o cualquier otra pérdida
+       económica) derivados del uso o la imposibilidad de uso de este
+       software, incluso si los Titulares hubiesen sido advertidos de la
+       posibilidad de dichos daños.
+
+  5.2  Esta limitación de responsabilidad se aplica en la máxima medida
+       permitida por la legislación aplicable.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARTÍCULO 6 — INFRACCIONES Y ACCIONES LEGALES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  6.1  Cualquier uso no autorizado de este software constituye una infracción
+       a los derechos de propiedad intelectual de los Titulares y podrá dar
+       lugar al ejercicio de las acciones civiles y penales correspondientes,
+       conforme a la Ley 11.723 de la República Argentina y demás normativa
+       aplicable.
+
+  6.2  Los Titulares se reservan el derecho de reclamar daños y perjuicios,
+       así como de solicitar medidas cautelares y el cese inmediato de
+       cualquier actividad infractora.
+
+  6.3  El incumplimiento de cualquier disposición de esta licencia implica
+       la terminación automática e inmediata de todos los derechos de uso
+       concedidos por los Titulares.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARTÍCULO 7 — LEGISLACIÓN APLICABLE Y JURISDICCIÓN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  7.1  Esta licencia se rige e interpreta de conformidad con las leyes de la
+       República Argentina, en particular la Ley 11.723 de Propiedad
+       Intelectual, el Código Civil y Comercial de la Nación, y demás
+       normativa complementaria vigente.
+
+  7.2  Para cualquier controversia derivada de la interpretación, aplicación
+       o incumplimiento de esta licencia, las partes se someten a la
+       jurisdicción de los Tribunales Ordinarios competentes de la República
+       Argentina, con renuncia expresa a cualquier otro fuero o jurisdicción
+       que pudiera corresponder.
+
+  7.3  En el ámbito internacional, se reconoce la protección conferida por
+       el Convenio de Berna, la Convención Universal sobre Derecho de Autor
+       y el Acuerdo sobre los ADPIC/TRIPS de la Organización Mundial del
+       Comercio.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARTÍCULO 8 — SEPARABILIDAD
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  8.1  Si alguna disposición de esta licencia fuera declarada inválida,
+       ilegal o inaplicable por un tribunal competente, dicha disposición
+       se modificará en la medida mínima necesaria para hacerla válida y
+       aplicable. Las demás disposiciones permanecerán en plena vigencia
+       y efecto.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ARTÍCULO 9 — ACUERDO COMPLETO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  9.1  Esta licencia constituye el acuerdo completo entre los Titulares y
+       cualquier usuario o receptor del software con respecto a su uso, y
+       reemplaza cualquier acuerdo o entendimiento anterior, oral o escrito,
+       relacionado con el objeto de esta licencia.
+
+  9.2  Ninguna modificación de esta licencia será válida a menos que conste
+       por escrito y esté firmada por ambos Titulares.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTICE / AVISO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  This software and its source code are the exclusive property of
+  Octavio Sebastian Tabbia and Giovanna Ratti.
+
+  Unauthorized copying, modification, distribution or use of this software,
+  via any medium, is strictly prohibited without the express written
+  permission of the copyright holders.
+
+  "CinemaFrame" and its associated logo, design and visual identity are
+  protected intellectual property of the copyright holders.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Copyright © 2025 Octavio Sebastian Tabbia & Giovanna Ratti
+  Todos los derechos reservados. / All rights reserved.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
