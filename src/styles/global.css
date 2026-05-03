@@ -3637,3 +3637,78 @@ input, select, textarea {
     min-width: 160px !important;
   }
 }
+
+/* ══════════════════════════════════════════════════════════════
+   MOVIE PAGE — Responsive mobile completo
+   Solo afecta la sección de reproducción de película.
+   No toca editor ni catálogo.
+   ══════════════════════════════════════════════════════════════ */
+
+/* ── Clases auxiliares para MoviePage ────────────────────────── */
+.movie-page-hero {
+  position: relative;
+  min-height: 70vh;
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+}
+
+.movie-page-hero-grid {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  gap: 40px;
+  padding: 80px 64px 48px;
+  width: 100%;
+  max-width: 1400px;
+  align-items: end;
+}
+
+.movie-page-content-grid {
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 32px;
+  padding: 48px 64px;
+  max-width: 1400px;
+}
+
+.movie-keyboard-hints {
+  display: block;
+}
+
+/* ── Tablet (768px) ──────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .movie-page-hero {
+    min-height: auto;
+  }
+
+  .movie-page-hero-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 40px 20px 32px;
+  }
+
+  .movie-page-content-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 24px 20px 40px;
+  }
+
+  .movie-keyboard-hints {
+    display: none;
+  }
+}
+
+/* ── Mobile (480px) ──────────────────────────────────────────── */
+@media (max-width: 480px) {
+  .movie-page-hero-grid {
+    padding: 28px 16px 24px;
+    gap: 16px;
+  }
+
+  .movie-page-content-grid {
+    padding: 16px 16px 32px;
+    gap: 16px;
+  }
+}
