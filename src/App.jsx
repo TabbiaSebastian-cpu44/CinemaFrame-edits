@@ -93,7 +93,7 @@ export default function App() {
           <em>CinemaFrame®</em> — Editor de Fotogramas
         </div>
         <div className="footer-copy">
-          © 2026 OctavioSebastianTabbia® &amp; GiovannaRatti® · Todos los derechos reservados
+          © 2026 CinemaFrame® · Todos los derechos reservados
         </div>
       </footer>
     </div>
